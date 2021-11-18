@@ -1,0 +1,2 @@
+# CryptoJS
+crypto-js.min
