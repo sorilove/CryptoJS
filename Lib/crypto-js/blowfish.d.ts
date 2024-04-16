@@ -1,3 +1,3 @@
 import CryptoJS = require("./index");
 
-export = CryptoJS.SHA256;
+export = CryptoJS.Blowfish;
