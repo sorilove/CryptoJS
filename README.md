@@ -28,7 +28,7 @@ CryptoJS.algo.AES.createEncryptor(key, { keySize: 4, iv: iv, model: CryptoJS.mod
 ```
 
 ## Tips
-- Do not use crypto-js because node crypto (노드 암호화를 위해 암호-js를 사용하지 마십시오.)
-- Do not use crypto-ts because so mush bug (너무 머쉬 버그 때문에 크립토-트를 사용하지 마십시오.)
+- Do not use crypto-js because node crypto (노드 암호화를 위해 crypto-js를 사용하지 마십시오.)
+- Do not use crypto-ts because so mush bug (너무 머쉬 버그 때문에 crypto-ts를 사용하지 마십시오.)
 - Do not use any other crypto library such crypto-es、ase-js.... (다른 암호화 라이브러리(예: crypto-es、ase-js....)를 사용하지 마세요.)
 - You can set /* eslint-disable @typescript-eslint/no-unsafe-call */ for unsafe any call (안전하지 않은 모든 통화에 대해 /* eslint-disable @typescript-eslint/ no-unsafe-call */을 설정할 수 있습니다.)
